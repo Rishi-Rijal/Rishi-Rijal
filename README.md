@@ -1,5 +1,7 @@
 # Hi, I'm Rishi Ram Rijal
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-rijal)
+
 I'm a **student and aspiring developer** passionate about learning new technologies and building practical projects.  
 I work mainly with **JavaScript**, **Python**, and **C++**, and I'm currently exploring full-stack development and data science tools.
 
